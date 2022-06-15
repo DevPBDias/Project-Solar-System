@@ -1,0 +1,16 @@
+.divMissionCard {
+  align-items: center;
+  border: 1px solid white;
+  display: flex;
+  flex-flow: column nowrap;
+  height: 280px;
+  justify-content: space-around;
+  margin: 10px;
+  width: 280px;
+}
+
+p {
+  color: #fffffe;
+  font-weight: 600;
+  text-align: center;
+}

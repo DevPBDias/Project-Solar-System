@@ -1,0 +1,8 @@
+.divPlanets {
+  align-items: center;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  margin: 80px;
+  padding: 20px;
+}

@@ -1,0 +1,19 @@
+.divPlanetCard {
+  align-items: center;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-around;
+  width: 150px;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+}
+
+img:hover {
+  height: 70%;
+  transform: rotateZ(90deg);
+  transition: 0.8s;
+  width: 70%;
+}
