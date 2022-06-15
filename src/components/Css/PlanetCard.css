@@ -13,7 +13,7 @@ img {
 
 img:hover {
   height: 70%;
-  transform: rotateZ(90deg);
+  transform: rotateZ(90deg) scale(1.5);
   transition: 0.8s;
   width: 70%;
 }

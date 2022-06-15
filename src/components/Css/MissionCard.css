@@ -10,7 +10,18 @@
 }
 
 p {
-  color: #fffffe;
   font-weight: 600;
   text-align: center;
+}
+
+.divMissionCard:hover {
+  align-self: center;
+  background-image: url('./background.png');
+  margin: 0 50px;
+  transform: scale(1.3);
+  transition: 0.5s;
+}
+
+p:hover {
+  color: #ff8906;
 }
